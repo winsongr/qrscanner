@@ -10,7 +10,12 @@ dependencies:
   get: 4.6.5
   flutter: 
     sdk: flutter
-  qrscan: ^0.3.2
+  flutter_barcode_scanner: ^2.0.0
+  webview_flutter: ^3.0.4
+  firebase_auth: ^3.4.1
+  google_sign_in: ^5.4.0
+  firebase_core: ^1.19.1
+  
 
 dev_dependencies: 
   flutter_lints: 2.0.1
@@ -20,3 +25,5 @@ dev_dependencies:
 flutter: 
   uses-material-design: true
 
+  assets:
+    - assets/

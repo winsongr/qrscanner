@@ -1,2 +1,14 @@
 # This is a generated file; do not edit or check into version control.
-qrscan=/home/jc/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/qrscan-0.3.2/
+firebase_auth=/home/jc/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.4.1/
+firebase_auth_web=/home/jc/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.3.19/
+firebase_core=/home/jc/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.19.1/
+firebase_core_web=/home/jc/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.6.6/
+flutter_barcode_scanner=/home/jc/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_barcode_scanner-2.0.0/
+flutter_plugin_android_lifecycle=/home/jc/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.6/
+google_sign_in=/home/jc/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.4.0/
+google_sign_in_android=/home/jc/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_android-6.0.1/
+google_sign_in_ios=/home/jc/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_ios-5.4.0/
+google_sign_in_web=/home/jc/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.2/
+webview_flutter=/home/jc/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-3.0.4/
+webview_flutter_android=/home/jc/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_android-2.8.14/
+webview_flutter_wkwebview=/home/jc/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_wkwebview-2.8.1/

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "188978399606",
+    "project_id": "qrcode-reader-wd",
+    "storage_bucket": "qrcode-reader-wd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188978399606:android:8d33a30303ffcb4af4d257",
+        "android_client_info": {
+          "package_name": "com.winson.qrscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188978399606-vu9j2clbqdh5lpqif48m6800cns846rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.winson.qrscanner",
+            "certificate_hash": "1a2d6c1760b09f110809cf40bf348aaf2679f790"
+          }
+        },
+        {
+          "client_id": "188978399606-59hpvkis2tt8r1ggaklrglkq6b7irheq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1yORRgre0qa8DwQ-VDYJl_65FKGeq1cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188978399606-59hpvkis2tt8r1ggaklrglkq6b7irheq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
