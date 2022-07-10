@@ -12,7 +12,7 @@ class SignInScreen extends StatefulWidget {
 }
 
 class _SignInScreenState extends State<SignInScreen> {
-  @override
+  
   FirebaseAuth auth = FirebaseAuth.instance;
 
   Future<UserCredential> signInWithGoogle() async {
