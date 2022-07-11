@@ -25,11 +25,11 @@ class _SplashScreenState extends State<SplashScreen> {
   void initState() {
     Timer(const Duration(seconds: 1), () {
       if (user != null) {
-        Get.to(Home(
+        Get.offAll(Home(
           user: user!,
         ));
       } else {
-        Get.to(SignInScreen());
+        Get.offAll(SignInScreen());
       }
     });
     super.initState();

@@ -163,18 +163,19 @@ class _HomeState extends State<Home> {
                   style: ElevatedButton.styleFrom(
                       primary: CustomColors.baseYellow)),
               SizedBox(
-                  
                   child: Text(
-                    'Result:$qrstr',textAlign: TextAlign.center,
-                    style: TextStyle(
-                      color: CustomColors.black,
-                      fontSize: 16,
-                    ),
-                  )),
+                'Result:$qrstr',
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                  color: CustomColors.black,
+                  fontSize: 16,
+                ),
+              )),
               SizedBox(
                 height: 20,
               ),
               Row(
+                crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   ElevatedButton(
                       child: Text('Open in Browser',
@@ -192,7 +193,7 @@ class _HomeState extends State<Home> {
                   ),
                   ElevatedButton(
                       onPressed: () {
-                        Clipboard.setData(ClipboardData(text:qrstr));
+                        Clipboard.setData(ClipboardData(text: qrstr));
                         Get.snackbar('Text copied', qrstr,
                             snackPosition: SnackPosition.BOTTOM,
                             backgroundColor: Colors.grey,
